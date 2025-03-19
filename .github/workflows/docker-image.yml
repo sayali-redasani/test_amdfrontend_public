@@ -42,6 +42,6 @@ jobs:
 
           push: true
 
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/infobellitai/amd_frontend_public:v1
+          tags: infobellitai/amd_frontend_public:v1
  
  
